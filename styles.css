@@ -89,7 +89,16 @@ margin-bottom: 20px;
 
 
 }
+/* Needs to be more specific with selector */
 .subtitle{
   font-weight: 600;
   color: lightblue;
+
+}
+
+.img-darken{
+
+  transition: 1s;
+  filter: brightness(10%);
+
 }

@@ -1,19 +1,22 @@
 # ProfessionalWebSite
 WebSite hosted locally for now
 
-//TODO
+
 # Tools Required
 1. Vscode IDE
-2. Flex
-3. diplay grid
+2. CSS Flex Box
+3. CSS grid
 
 # Where to find Images for the Website?
+Search for the theme you neded from https://unsplash.com/
+Example: Search for `women coding`
 
 # How to find fonts?
 Look in `https://fonts.google.com/` select a font you like and click `select this style` and click `Embed`. Copy the code to your clipboard
 Example: `<link href="https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@300&display=swap" rel="stylesheet">`
 
 # How to beautify html code in the IDE?
+
 
 # How to run jquery from chrome console?
 Type `$('.portfolio-item-wrapper')` to get the dom elements belongs to the class `portfolio-items-wrapper`

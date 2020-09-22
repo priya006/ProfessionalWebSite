@@ -24,5 +24,7 @@ Type `$('.portfolio-item-wrapper')` to get the dom elements belongs to the class
 const portfolioItems = document.querySelectorAll('.portfolio-item-wrapper')
 Then type `portfolioItems` to get all the 12 dom elements
 
+# How to host static website in github ?
+
 **ProTip:**
 Before Adding javascript to .html file. Test the code in chrome browser console and add!

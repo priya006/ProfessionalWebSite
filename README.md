@@ -15,8 +15,6 @@ Example: Search for `women coding`
 Look in `https://fonts.google.com/` select a font you like and click `select this style` and click `Embed`. Copy the code to your clipboard
 Example: `<link href="https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@300&display=swap" rel="stylesheet">`
 
-# How to beautify html code in the IDE?
-
 
 # How to run jquery from chrome console?
 Type `$('.portfolio-item-wrapper')` to get the dom elements belongs to the class `portfolio-items-wrapper`

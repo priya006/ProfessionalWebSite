@@ -1,5 +1,5 @@
 # ProfessionalWebSite
-WebSite hosted locally for now
+WebSite hosted in git hub could be accessed by clicking https://priya006.github.io/Professional_Summary_Site/about.html
 
 
 # Tools Required

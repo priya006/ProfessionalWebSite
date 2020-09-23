@@ -124,15 +124,28 @@ color: transparent;
 
 /* About page styles */
 
+#showcase{
+  background-image:url('http://traversymedia.com/downloads/assets/beachshowcase.jpg');
+  background-size:cover;
+  background-position:center;
+  height:50vh;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+  text-align:center;
+  padding:0 20px;
+}
+
 .two-column-wrapper{
   display: grid;
   grid-template-columns: 1fr 1fr ;
 }
 
-.profile-image-wrapper img{
-  width: 100%;
+ .profile-image-wrapper img{
+  width: 50%;
 
-}
+} 
 
   #section-a{
     padding:20px;

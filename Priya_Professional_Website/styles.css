@@ -135,20 +135,24 @@ color: transparent;
 }
 
   #section-a{
-  padding:20px;
-  color:#926239;
+    padding:20px;
+    background:slateblue;
+    color:#fff;
+    text-align:justify;
 
 }
 
 #section-b{
   padding:20px;
-  color:rebeccapurple;
+  background:purple;
+  color: #fff;
+  text-align:justify;
 
 }
 
 
 .profile-content-wrapper h1{
-
-  color: fuchsia;
   
+  color: green;
+  text-align: center;
 }

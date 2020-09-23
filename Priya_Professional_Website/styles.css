@@ -68,7 +68,7 @@ body{
 
 .portfolio-item-wrapper{
   position: relative;
-  padding: 0 20px;
+
 
 }
 
@@ -134,10 +134,18 @@ color: transparent;
 
 }
 
-.profile-content-wrapper{
-padding: 30px;
+  #section-a{
+  padding:20px;
+  color:#926239;
 
 }
+
+#section-b{
+  padding:20px;
+  color:rebeccapurple;
+
+}
+
 
 .profile-content-wrapper h1{
 

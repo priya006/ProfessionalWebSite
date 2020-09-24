@@ -28,6 +28,14 @@ body{
 
 }
 
+.nav-wrapper >  .left-side > div > a{
+  background-color: red;
+  color: white;
+  padding: 1em 1.5em;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
 .nav-link-wrapper{
   height: 22px;
   border-bottom: 1px solid transparent;

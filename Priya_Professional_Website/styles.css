@@ -151,7 +151,7 @@ color: transparent;
 /* About page styles */
 
 #showcase{
-  background-image:url('https://github.com/priya006/priya006.github.io/blob/master/Priya_Professional_Website/images/portfolio9.jpg');
+  background-image:url('https://raw.githubusercontent.com/priya006/priya006.github.io/master/Priya_Professional_Website/images/portfolio9.jpg');
   background-size:cover;
   background-position:center;
   height:50vh;
@@ -173,8 +173,6 @@ color: transparent;
   flex-direction:column;
   width: 50%;
   height:50vh;
-  background-size:cover;
-  background-position:center;
   padding:0 20px;
 } 
 

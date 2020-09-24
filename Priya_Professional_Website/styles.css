@@ -69,6 +69,13 @@ body{
   cursor:pointer;
 }
 
+.github {	
+  background-color:blue;	
+  text-align: center;	
+  text-decoration: none;
+  font-size: 1em;
+  cursor:pointer;
+}
 /* Portfolio styles */
 .portfolio-items-wrapper{
   display: grid;

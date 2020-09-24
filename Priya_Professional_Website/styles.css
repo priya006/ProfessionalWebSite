@@ -29,11 +29,13 @@ body{
 }
 
 .nav-wrapper >  .left-side > div > a{
-  background-color: red;
+  background-color:blue;
+  font-weight: 900;
   color: white;
   padding: 1em 1.5em;
   text-decoration: none;
   text-transform: uppercase;
+  
 }
 
 .nav-link-wrapper{

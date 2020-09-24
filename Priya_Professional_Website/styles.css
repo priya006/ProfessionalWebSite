@@ -151,7 +151,7 @@ color: transparent;
 /* About page styles */
 
 #showcase{
-  background-image:url('http://traversymedia.com/downloads/assets/beachshowcase.jpg');
+  background-image:url('https://github.com/priya006/priya006.github.io/blob/master/Priya_Professional_Website/images/portfolio9.jpg');
   background-size:cover;
   background-position:center;
   height:50vh;
@@ -169,8 +169,13 @@ color: transparent;
 }
 
  .profile-image-wrapper img{
+  display:flex;
+  flex-direction:column;
   width: 50%;
-
+  height:50vh;
+  background-size:cover;
+  background-position:center;
+  padding:0 20px;
 } 
 
   #section-a{

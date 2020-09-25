@@ -29,16 +29,33 @@ body{
 }
 
 .nav-wrapper >  .left-side > div{
+  background-color:skyblue;
+  font-weight: 900;
+  color: white;
+  padding: 1em 1.5em;
   margin-right: 20px;
   font-size: 0.98em;
   text-transform: uppercase;
-  text-decoration:underline; 
+  text-decoration:none; 
+
 }
 
 
 
 
 
+.nav-wrapper >  .left-side > div > a:hover{
+  /* background-color:skyblue;
+  font-weight: 900;
+  color: white;
+  padding: 1em 1.5em; */
+  color: white;
+  margin-right: 20px;
+  font-size: 0.98em;
+  text-transform: uppercase; 
+  text-decoration: underline;
+}
+/* 
 .nav-wrapper >  .left-side > div > a{
   background-color:skyblue;
   font-weight: 900;
@@ -47,7 +64,7 @@ body{
   text-decoration: none;
   text-transform: uppercase;
   
-}
+} */
 
 .nav-link-wrapper{
   height: 22px;

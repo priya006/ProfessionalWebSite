@@ -239,9 +239,19 @@ color: transparent;
 #section-c .box-1, #section-c .box-3{
   background:slateblue;
   color:#fff;
+  text-align:justify;
 }
 
 #section-c .box-2{
   background:#f9f9f9;
+}
+
+#section-d{
+  padding:20px;
+  background:purple;
+  color:#fff;
+  text-align:justify;
+  
+
 }
 
